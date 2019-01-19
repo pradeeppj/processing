@@ -19,7 +19,7 @@ The design rationale was to quickly prototype a camera application in Processing
 
 ## Input
 <p align="center">
-  <img src="input.png" alt="Input"
+  <img src="input.jpg" alt="Input"
        >
 
 </p>
@@ -27,7 +27,7 @@ The design rationale was to quickly prototype a camera application in Processing
 ## Output
 
 <p align="center">
-  <img src="output.png" alt="Output"
+  <img src="output.jpg" alt="Output"
        >
 
 </p>
