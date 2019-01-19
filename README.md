@@ -31,3 +31,13 @@ The design rationale was to quickly prototype a camera application in Processing
        >
 
 </p>
+
+
+## How to use
+1.Install Processing  
+
+2.Install Opencv 
+
+3.Clone Project
+
+4. Run exercise1.pde
